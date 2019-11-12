@@ -7,7 +7,7 @@ authors = ["Wilson Skariah <wskariah@jornaya.com>"]
 [tool.poetry.dependencies]
 python = "^3.7"
 flask = "^1.1"
-pytest = "^5.2"
+tesults = "^1.2"
 
 [tool.poetry.dev-dependencies]
 
