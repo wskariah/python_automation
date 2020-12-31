@@ -2,7 +2,7 @@
 name = "runner"
 version = "0.1.0"
 description = ""
-authors = ["Wilson Skariah <wskariah@jornaya.com>"]
+authors = ["Wilson Skariah <wskariah@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
